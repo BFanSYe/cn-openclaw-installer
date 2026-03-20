@@ -1,5 +1,10 @@
 # cn-openclaw-installer
 
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Shell: Bash](https://img.shields.io/badge/shell-bash-121011?logo=gnu-bash)
+![Debian 12](https://img.shields.io/badge/debian-12-A81D33?logo=debian)
+![OpenClaw Installer](https://img.shields.io/badge/OpenClaw-installer-4f46e5)
+
 一个面向 **Debian 12** 的 **OpenClaw 基础安装器**。
 
 目标很简单：
